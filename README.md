@@ -2,9 +2,9 @@
 
 ## 1. Informasi Penyusun
 
-- **Nama:** `[NAMA LENGKAP MAHASISWA]`
-- **NIM:** `[NOMOR INDUK MAHASISWA]`
-- **Program Studi:** `[PROGRAM STUDI]`
+- **Nama:** `[PUTU ANGGA AGUSTA PARAMA SANDI]`
+- **NIM:** `[2515091115]`
+- **Program Studi:** `[SISTEMINFORMASI]`
 - **Mata Kuliah:** Statistika dan Probabilitas
 
 ---
@@ -14,7 +14,7 @@
 Pada bagian ini, jelaskan secara singkat dataset yang Anda gunakan. Apa saja variabel di dalamnya? Apa tujuan dari analisis yang Anda lakukan?
 
 *Contoh:*
-> Dataset yang digunakan adalah data `...` yang berisi informasi tentang `...`. Variabel kunci dalam dataset ini meliputi `variabel_A`, `variabel_B`, dan `variabel_C`. Tujuan dari proyek ini adalah untuk memahami karakteristik data melalui statistik deskriptif, menguji hubungan antara `variabel_A` dan `variabel_B` melalui analisis korelasi, serta memprediksi `variabel_C` menggunakan `variabel_A` sebagai prediktor melalui analisis regresi.
+> Dataset yang digunakan adalah data `data_startup_saas.csv` yang berisi informasi tentang `File data_startup_saas.csv berisi data kinerja 650+ startup SaaS di Indonesia, dengan kolom utama: NamaStartup (seperti Startup1 hingga Startup650), KategoriLayanan (Keuangan, Proyek, SDM, Pemasaran, CRM), PendapatanTahunanMiliarIDR (1-66 miliar IDR), BiayaAkuisisiPelangganJutaIDR (2-68 juta IDR, ada "NA"), NilaiPelangganJutaIDR (5-205 juta IDR), dan TingkatChurnPersen (-50 hingga 15%).  Data ini berguna untuk analisis bisnis SaaS, menunjukkan tren pendapatan naik dan churn bervariasi.`. Variabel kunci dalam dataset ini meliputi `Pendapatan_Tahunan_Miliar_IDR`, `Biaya_Akuisisi_Pelanggan_Juta_IDR`, dan `Nilai_Pelanggan_Juta_IDR`. Tujuan dari proyek ini adalah untuk memahami karakteristik data melalui statistik deskriptif, menguji hubungan antara `Pendapatan_Tahunan_Miliar_IDR` dan `Biaya_Akuisisi_Pelanggan_Juta_IDR` melalui analisis korelasi, serta memprediksi `Nilai_Pelanggan_Juta_IDR` menggunakan `Pendapatan_Tahunan_Miliar_IDR` sebagai prediktor melalui analisis regresi.
 
 ---
 
