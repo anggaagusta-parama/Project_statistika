@@ -47,10 +47,19 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
 ### 5.1. Statistik Deskriptif
 - **Ukuran Pemusatan (Mean, Median, Modus):**
   - *Tabel atau ringkasan...*
+  - Mean = 33.5
+  - Median = 33.08
+  - Modus = 3.21
   - *Interpretasi:* Jelaskan apa arti dari nilai-nilai tersebut terkait dengan data Anda.
+  - Data Anda memiliki nilai rata-rata (Mean) sebesar 33.5, yang menunjukkan pusat massa data secara keseluruhan. Nilai ini didukung oleh Median sebesar 33.08, yang berarti tepat separuh dari data Anda berada di bawah angka tersebut dan separuhnya lagi berada di atasnya. Mengingat nilai Mean dan Median sangat berdekatan, data Anda cenderung memiliki distribusi yang cukup stabil di sekitar angka 33. Namun, terdapat anomali pada Modus sebesar 3.21, yang merupakan nilai yang paling sering muncul. Perbedaan drastis antara Modus dengan nilai tengah lainnya mengindikasikan adanya sebaran data yang sangat menceng atau keberadaan sekelompok nilai rendah yang frekuensinya sangat dominan dibandingkan nilai lainnya dalam kumpulan data tersebut.
 - **Ukuran Sebaran (Standar Deviasi, Range, Kuartil):**
   - *Tabel atau ringkasan...*
+  - Standar Deviasi =20.03
+  - Range = 2.56 - 68.77
+  - Kuartil = Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+              2.56   15.23   33.08   33.50   50.92   68.77 
   - *Interpretasi:* Jelaskan seberapa menyebar data Anda berdasarkan nilai-nilai ini.
+  - Data ini aslinya berantakan dan nggak kompak. Jarak antara angka paling kecil (2.56) sama yang paling gede (68.77) itu jauh banget, hampir nggak ada nyambung-nyambungnya. Standar deviasinya yang sampai 20.03 itu jadi bukti kalau data kamu mencar ke mana-mana, nggak ngumpul di satu titik. seperempat data masih "nyangkut" di angka kecil belasan, tapi seperempat sisanya sudah lari jauh ke angka 50-an ke atas. Intinya, isi data ini sangat beragam—ada yang kecil banget dan ada yang besar banget—jadi nggak bisa dibilang seragam atau konsisten.
 - **Visualisasi (Histogram/Boxplot):**
   - *Sematkan gambar plot dari folder /results...*
   - *Interpretasi:* Jelaskan wawasan apa yang Anda dapatkan dari bentuk distribusi data.
